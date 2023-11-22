@@ -3,7 +3,7 @@
 
 This application showcases a green-colored density plot for the 'cancer_sample' dataset, as part of the 'datateachr' package, featuring a sliding scale for transparency adjustment.
 
-The plot enables users to visualize variables between 'radius_mean' and 'area_mean' of the dataset, however, the entire numerical data is available to dowload from the app.
+The plot enables users to visualize variables between 'radius_mean' and 'area_mean', however, the numerical dataset is available to dowload from the app.
 
 To access the dataset in RStudio, type
 
