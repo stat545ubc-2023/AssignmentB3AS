@@ -5,6 +5,9 @@ account: assignmentb3as
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10597488
-bundleId: 7955161
+bundleId: 7955647
 url: https://assignmentb3as.shinyapps.io/assignmentb3as/
 version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Untitled.R
